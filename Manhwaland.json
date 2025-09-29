@@ -5,6 +5,7 @@
   "versionName": "1.0",
   "baseUrl": "https://www.manhwaland.baby",
   "mirrors": [
+    "https://02.manhwaland.land",
     "https://www.manhwaland.lol",
     "https://www.manhwaland.club",
     "https://www.manhwaland.cc"
@@ -13,8 +14,8 @@
   "isNsfw": true,
   "className": "eu.kanade.tachiyomi.extension.id.manhwaland.Manhwaland",
   "supportsLatest": true,
-  "description": "Ekstensi Manhwaland 18+ terbaru dengan domain *.baby dan mirror fallback, kompatibel dengan Tachiyomi.",
+  "description": "Ekstensi Manhwaland 18+ terbaru dengan domain utama dan mirror fallback, kompatibel dengan Tachiyomi.",
   "author": "Kenta-193",
   "website": "https://www.manhwaland.baby",
-  "repo": "https://github.com/Kenta-193/Manhwaland-Tachiyomi"
+  "repo": "https://github.com/Kenta-193/Tachiyomi-extensions"
 }
