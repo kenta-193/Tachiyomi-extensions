@@ -1,14 +1,14 @@
 {
-  "name": "Kenta Extensions",
-  "exts": [
+  "name": "Tachiyomi Extensions Repo",
+  "author": "kenta-193",
+  "version": 1,
+  "extensions": [
     {
-      "name": "Manhwaland",
-      "pkg": "eu.kanade.tachiyomi.extension.id.manhwaland",
-      "lang": "id",
-      "code": 1,
-      "version": "1.4.38",
-      "nsfw": 1,
-      "apk": "https://raw.githubusercontent.com/kenta-193/tachiyomi-extensions/main/manhwaland.apk"
+      "name": "ManhwaLand",
+      "pkg": "tachiyomi.extension.id.manhwaland",
+      "apk": "Manhwaland.apk",
+      "versionCode": 1,
+      "versionName": "1.0"
     }
   ]
 }
